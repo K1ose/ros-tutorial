@@ -1,0 +1,2 @@
+beginner_tutorials:beginner_tutorials_listener:flora_listener:flora_msgs:flora_talker:imu_pkg:lidar_pkg:main:map_pkg:ros_tutorials/ros_tutorials:ros_tutorials/roscpp_tutorials:ros_tutorials/rospy_tutorials:ros_tutorials/turtlesim:ultranic_pkg:vel_pkg:wpr_simulation
+-DCATKIN_DEVEL_PREFIX=/home/klose/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/klose/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+<launch>
+
+	<node pkg="flora_talker" type="flora_talker_node" name="flora_talker_node"/>
+
+	<node pkg="beginner_tutorials" type="beginner_node" name="beginner_node"/>
+	<node pkg="beginner_tutorials" type="second_node" name="second_node"/>
+
+</launch>

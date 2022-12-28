@@ -1,0 +1,7 @@
+<launch>
+
+    <node pkg="flora_listener" type="flora_listener_node" name="flora_listener_node" output="screen" launch-prefix="gnome-terminal -e"/>
+
+    <node pkg="beginner_tutorials_listener" type="beginner_tutorials_listener_node" name="beginner_tutorials_listener_node" output="screen" launch-prefix="gnome-terminal -e"/>
+
+</launch>

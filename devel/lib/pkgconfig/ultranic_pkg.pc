@@ -1,0 +1,8 @@
+prefix=/home/klose/catkin_ws/devel
+
+Name: ultranic_pkg
+Description: Description of ultranic_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
